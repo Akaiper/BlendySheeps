@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f04f68a926275642906975b3532f7d5, type: 3}
+  m_Name: Save
+  m_EditorClassIdentifier: 
+  dinheiro: 250
+  felicidadeOvelhas: 0
+  fomeOvelhas: 0
+  sedeOvelhas: 0
+  quest: 
+  corOvelhasAtuais:
+  - {x: 0.00000006248604, y: 5.44e-43, z: 0.000000010605214, w: 0.0000001696943}
+  - {x: -1.5847174e+29, y: 5.41e-43, z: 4.6e-44, w: 0.00000085017234}
+  - {x: 0.00000006248604, y: 5.44e-43, z: 0.000000062486265, w: 5.44e-43}
+  - {x: -1.5847234e+29, y: 5.41e-43, z: 6.9e-44, w: 0.05078125}
+  corOvelhasVistas: []
+  cercas: 0
+  posCercas: []
+  rotacaoCercas: []
+  qtdCachorro: 0
